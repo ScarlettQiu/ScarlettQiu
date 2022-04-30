@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ScarlettQiu
-- 👀 I’m interested in business strategies, product analysis, content creation, tennis, travelling
-- 💼 I have over 6 years marketing working experience.
+- 👀 I’m interested in customer intelligence, product analysis, content creation, tennis, travelling
+- 💼 I have over 6 years marketing work experience.
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on data analysis projects
 - 📫 How to reach me: qiu.yu1@northeastern.edu

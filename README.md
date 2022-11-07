@@ -10,5 +10,5 @@
 <B>Database:</B> MySQL, SQLite  
 <B>Data Analysis:</B> pandas, R Studio  
 <B>Data Visualization:</B> Tableau, Plotly, Matplotlib  
-<B>Machine Learning:</B> Scikit-Learn  
+<B>Machine Learning:</B> Scikit-Learn, PyTorch  
 <B>Tools:</B> Git, Jupyter Lab, R Markdown, VS Code, PyCharm, Databricks, Spark, Hadoop  

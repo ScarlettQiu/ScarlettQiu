@@ -1,10 +1,17 @@
 
 ## 👩‍🚀 I'm Yu Qiu (Scarlett)! Welcome to my GitHub Profile! &#x1F4AD;
 
-🌟 Before being a data enthusiast 👩🏻‍🎓, I was a marketing manager who have done marketing for 6 years.    
-🌟 I am interested in exploring data, investigating hypotheses and creating predictive models to reveal hidden dynamics in data📈 and achieve business goals 🎯.  
-🌟 To embrace the big data era, I'm curious to build up big data architecture, e.g. lambda or lakehouse.   
-🌟 Currently I am gaining experience in creating the streaming data pipeline to discover real-time reporting and creating ML models with streaming data.
+🌟 From Marketing to Data Science
+Before becoming a data enthusiast, I spent six years as a marketing manager, crafting and executing campaigns that delivered real results.
+
+🌟 Driven by Curiosity and Impact
+I’m passionate about exploring data, testing hypotheses, and building predictive models to uncover hidden patterns and drive strategic business decisions.
+
+🌟 Embracing the Big Data Era
+With a keen interest in modern data architecture, I'm actively expanding my knowledge in systems like Lambda and Lakehouse to harness the full potential of big data.
+
+🌟 Real-Time Analytics in Action
+Currently, I'm gaining hands-on experience in building streaming data pipelines for real-time reporting and developing machine learning models that work with live data streams.
 
 <B>Coding:</B> Python, SQL, R, Scala   
 <B>Database:</B> MySQL, SQLite  

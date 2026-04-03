@@ -1,21 +1,10 @@
 
 ## 👩‍🚀 I'm Yu Qiu (Scarlett)! Welcome to my GitHub Profile! &#x1F4AD;
 
-🌟 From Marketing to Data Science
-Before becoming a data enthusiast, I spent six years as a marketing manager, crafting and executing campaigns that delivered real results.
+Marketing Analytics professional with 6+ years in marketing and 3+ years in analytics, specializing in campaign performance measurement, attribution modeling, and growth analytics. Skilled at translating business context into data and complex data into actionable insights. Experienced in building scalable SQL data models, KPI dashboards, and funnel analysis across acquisition, engagement, and retention, through cross-functional collaboration with marketing, product, and engineering teams.
 
-🌟 Driven by Curiosity and Impact
-I’m passionate about exploring data, testing hypotheses, and building predictive models to uncover hidden patterns and drive strategic business decisions.
 
-🌟 Embracing the Big Data Era
-With a keen interest in modern data architecture, I'm actively expanding my knowledge in systems like Lambda and Lakehouse to harness the full potential of big data.
-
-🌟 Real-Time Analytics in Action
-Currently, I'm gaining hands-on experience in building streaming data pipelines for real-time reporting and developing machine learning models that work with live data streams.
-
-<B>Coding:</B> Python, SQL, R, Scala   
-<B>Database:</B> MySQL, SQLite  
-<B>Data Analysis:</B> pandas, R Studio  
+<B>Coding:</B> Python, SQL,
+<B>Database:</B> Snowflake, Google BigQuery, Microsoft SQL Server, MySQL, SQLite    
 <B>Data Visualization:</B> Tableau, Plotly, Matplotlib  
 <B>Machine Learning:</B> Scikit-Learn, PyTorch  
-<B>Tools:</B> Git, Jupyter Lab, R Markdown, VS Code, PyCharm, Databricks, Spark, Hadoop  

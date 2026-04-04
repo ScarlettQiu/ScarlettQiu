@@ -6,5 +6,5 @@ Marketing Analytics professional with 6+ years in marketing and 3+ years in anal
 
 <B>Coding:</B> Python, SQL,
 <B>Database:</B> Snowflake, Google BigQuery, Microsoft SQL Server, MySQL, SQLite    
-<B>Data Visualization:</B> Tableau, Plotly, Matplotlib  
+<B>Data Visualization:</B> PowerBI, Tableau, Plotly, Matplotlib  
 <B>Machine Learning:</B> Scikit-Learn, PyTorch  
